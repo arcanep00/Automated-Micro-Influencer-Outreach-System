@@ -37,8 +37,8 @@
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/arcanep00/influencer-outreach.git
-cd influencer-outreach
+git clone https://github.com/arcanep00/Automated-Micro-Influencer-Outreach-System.git
+cd Automated-Micro-Influencer-Outreach-System
 pip install -r requirements.txt
 cp .env.example .env
 ```
