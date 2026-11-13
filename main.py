@@ -4,6 +4,8 @@ from discovery.mock_data import load_mock_data
 from filtering.filter import run_filtering, print_filter_summary
 from enrichment.enrich import run_enrichment, print_enrichment_summary
 from enrichment.export import export_to_csv, export_to_json
+from personalization.generate import run_personalization
+from personalization.export_messages import export_messages_csv, export_messages_json, print_sample_messages
 from config import NICHE, MIN_INFLUENCERS_REQUIRED
 
 
@@ -11,7 +13,7 @@ def phase1():
     print("\n=== Phase 1: Foundation & Discovery ===\n")
     init_db()
     print("[DB] Database initialized")
-    total = load_mock_data()
+    load_mock_data()
     all_in_db = get_all_influencers()
     print(f"[Done] Total influencers in DB: {len(all_in_db)}")
     if len(all_in_db) < MIN_INFLUENCERS_REQUIRED:
@@ -31,6 +33,15 @@ def phase2():
     export_to_json("influencers_passed.json", passed_only=True)
 
 
+def phase3():
+    print("\n=== Phase 3: AI Personalization ===\n")
+    run_personalization()
+    export_messages_csv()
+    export_messages_json()
+    print_sample_messages(count=3)
+
+
 if __name__ == "__main__":
     phase1()
     phase2()
+    phase3()

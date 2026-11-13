@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Test User",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Test User, your dedication to workout, gym content is exactly what our fitness brand is looking for. With your 25,000 engaged followers and 4.5% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi Test User, your workout content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Sara Fit",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Sara Fit, your dedication to workout, gym, nutrition content is exactly what our fitness brand is looking for. With your 48,000 engaged followers and 5.2% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi Sara Fit, your workout content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Mike Lifts",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Mike Lifts, your dedication to weightlifting, bodybuilding content is exactly what our fitness brand is looking for. With your 72,000 engaged followers and 3.8% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi Mike Lifts, your weightlifting content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Zara Glow",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Zara Glow, your skincare, makeup, glowup content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi Zara Glow, loved your recent skincare content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Priya Style",
+    "platform": "Instagram",
+    "niche": "fashion",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Priya Style, your eye for ootd, streetstyle, fashion is exactly the aesthetic our brand resonates with. We've been following your content and think your audience would genuinely love what we're building. We'd love to explore a paid collaboration or affiliate partnership. Let us know if you're interested.",
+    "instagram_dm": "Hi Priya Style, your ootd style is stunning. We'd love to explore a collab \u2014 are you open to it?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "TechWithAlex",
+    "platform": "YouTube",
+    "niche": "tech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi TechWithAlex, your gadgets, reviews, coding content is both informative and engaging \u2014 exactly the kind of creator voice we look for. We'd love to explore a sponsored review or affiliate collaboration with you. Your audience's trust in your recommendations makes this a compelling opportunity for both sides.",
+    "instagram_dm": "Hi TechWithAlex, your gadgets reviews are genuinely helpful. We'd love to work together on something \u2014 interested?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Luna Beauty",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Luna Beauty, your skincare routine, tutorials content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi Luna Beauty, loved your recent skincare routine content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "FitDad Joe",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi FitDad Joe, your dedication to dad fitness, home workout content is exactly what our fitness brand is looking for. With your 18,000 engaged followers and 5.9% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi FitDad Joe, your dad fitness content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Crypto Kai",
+    "platform": "YouTube",
+    "niche": "fintech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Crypto Kai, your ability to break down crypto, investing, defi for a broad audience is a skill we deeply respect. We'd love to explore a collaboration \u2014 whether it's a sponsored video, affiliate campaign, or brand partnership. Your audience's trust makes this a great opportunity.",
+    "instagram_dm": "Hi Crypto Kai, your crypto breakdowns are top notch. Would love to explore a collab \u2014 open to chat?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Mia Runs",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Mia Runs, your dedication to running, marathon, cardio content is exactly what our fitness brand is looking for. With your 29,000 engaged followers and 6.8% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi Mia Runs, your running content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "StyleByNadia",
+    "platform": "Instagram",
+    "niche": "fashion",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi StyleByNadia, your eye for luxury fashion, styling tips is exactly the aesthetic our brand resonates with. We've been following your content and think your audience would genuinely love what we're building. We'd love to explore a paid collaboration or affiliate partnership. Let us know if you're interested.",
+    "instagram_dm": "Hi StyleByNadia, your luxury fashion style is stunning. We'd love to explore a collab \u2014 are you open to it?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "GamerZack",
+    "platform": "YouTube",
+    "niche": "gaming",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi GamerZack, your fps games, reviews, esports content has the kind of authentic energy our brand is looking for. We'd love to partner on a sponsored stream, product placement, or affiliate deal that fits naturally with your content. Let's see if there's a good fit here.",
+    "instagram_dm": "Hi GamerZack, your fps games content is awesome. We'd love to discuss a partnership that fits your style!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Mom of Three",
+    "platform": "Instagram",
+    "niche": "parenting",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Mom of Three, your honest and relatable motherhood, kids, family content is exactly what parents need \u2014 and what our brand values. We'd love to discuss a collaboration that feels genuine to your audience, whether that's a product feature, affiliate deal, or ambassador role.",
+    "instagram_dm": "Hi Mom of Three, your motherhood content is so relatable. We'd love to partner with you on something authentic!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "VeganVita",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi VeganVita, your dedication to vegan diet, plant based, nutrition content is exactly what our fitness brand is looking for. With your 26,000 engaged followers and 7.1% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi VeganVita, your vegan diet content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Kevin Codes",
+    "platform": "YouTube",
+    "niche": "tech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Kevin Codes, your programming, tutorials, python content is both informative and engaging \u2014 exactly the kind of creator voice we look for. We'd love to explore a sponsored review or affiliate collaboration with you. Your audience's trust in your recommendations makes this a compelling opportunity for both sides.",
+    "instagram_dm": "Hi Kevin Codes, your programming reviews are genuinely helpful. We'd love to work together on something \u2014 interested?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "Bella Trends",
+    "platform": "Instagram",
+    "niche": "fashion",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi Bella Trends, your eye for trends, haul, fashion week is exactly the aesthetic our brand resonates with. We've been following your content and think your audience would genuinely love what we're building. We'd love to explore a paid collaboration or affiliate partnership. Let us know if you're interested.",
+    "instagram_dm": "Hi Bella Trends, your trends style is stunning. We'd love to explore a collab \u2014 are you open to it?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "YogaWithSam",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi YogaWithSam, your dedication to yoga, mindfulness, wellness content is exactly what our fitness brand is looking for. With your 15,000 engaged followers and 8.2% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi YogaWithSam, your yoga content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "FinanceFred",
+    "platform": "YouTube",
+    "niche": "fintech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi FinanceFred, your ability to break down personal finance, budgeting, stocks for a broad audience is a skill we deeply respect. We'd love to explore a collaboration \u2014 whether it's a sponsored video, affiliate campaign, or brand partnership. Your audience's trust makes this a great opportunity.",
+    "instagram_dm": "Hi FinanceFred, your personal finance breakdowns are top notch. Would love to explore a collab \u2014 open to chat?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "GlowByRia",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi GlowByRia, your natural beauty, skincare, tutorials content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi GlowByRia, loved your recent natural beauty content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "DadLifeDan",
+    "platform": "Instagram",
+    "niche": "parenting",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi DadLifeDan, your honest and relatable fatherhood, family vlogs content is exactly what parents need \u2014 and what our brand values. We'd love to discuss a collaboration that feels genuine to your audience, whether that's a product feature, affiliate deal, or ambassador role.",
+    "instagram_dm": "Hi DadLifeDan, your fatherhood content is so relatable. We'd love to partner with you on something authentic!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "TechNinja",
+    "platform": "YouTube",
+    "niche": "tech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi TechNinja, your unboxing, smartphones, laptops content is both informative and engaging \u2014 exactly the kind of creator voice we look for. We'd love to explore a sponsored review or affiliate collaboration with you. Your audience's trust in your recommendations makes this a compelling opportunity for both sides.",
+    "instagram_dm": "Hi TechNinja, your unboxing reviews are genuinely helpful. We'd love to work together on something \u2014 interested?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "FashionFara",
+    "platform": "Instagram",
+    "niche": "fashion",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi FashionFara, your eye for modest fashion, ethnic wear is exactly the aesthetic our brand resonates with. We've been following your content and think your audience would genuinely love what we're building. We'd love to explore a paid collaboration or affiliate partnership. Let us know if you're interested.",
+    "instagram_dm": "Hi FashionFara, your modest fashion style is stunning. We'd love to explore a collab \u2014 are you open to it?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "GymQueen",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi GymQueen, your dedication to gym, women fitness, strength content is exactly what our fitness brand is looking for. With your 57,000 engaged followers and 4.7% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi GymQueen, your gym content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "CryptoLisa",
+    "platform": "YouTube",
+    "niche": "fintech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi CryptoLisa, your ability to break down bitcoin, altcoins, web3 for a broad audience is a skill we deeply respect. We'd love to explore a collaboration \u2014 whether it's a sponsored video, affiliate campaign, or brand partnership. Your audience's trust makes this a great opportunity.",
+    "instagram_dm": "Hi CryptoLisa, your bitcoin breakdowns are top notch. Would love to explore a collab \u2014 open to chat?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "MakeupByMia",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi MakeupByMia, your makeup tutorials, looks, products content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi MakeupByMia, loved your recent makeup tutorials content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "StreetStyleKen",
+    "platform": "Instagram",
+    "niche": "fashion",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi StreetStyleKen, your eye for streetwear, sneakers, menswear is exactly the aesthetic our brand resonates with. We've been following your content and think your audience would genuinely love what we're building. We'd love to explore a paid collaboration or affiliate partnership. Let us know if you're interested.",
+    "instagram_dm": "Hi StreetStyleKen, your streetwear style is stunning. We'd love to explore a collab \u2014 are you open to it?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "FitMomAmy",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi FitMomAmy, your dedication to postnatal fitness, mom workouts content is exactly what our fitness brand is looking for. With your 21,000 engaged followers and 6.5% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi FitMomAmy, your postnatal fitness content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "GamersHub",
+    "platform": "YouTube",
+    "niche": "gaming",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi GamersHub, your game reviews, walkthroughs content has the kind of authentic energy our brand is looking for. We'd love to partner on a sponsored stream, product placement, or affiliate deal that fits naturally with your content. Let's see if there's a good fit here.",
+    "instagram_dm": "Hi GamersHub, your game reviews content is awesome. We'd love to discuss a partnership that fits your style!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "NaturalNadia",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi NaturalNadia, your natural hair, afro beauty content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi NaturalNadia, loved your recent natural hair content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "InvestWithIan",
+    "platform": "YouTube",
+    "niche": "fintech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi InvestWithIan, your ability to break down investing, ETFs, retirement for a broad audience is a skill we deeply respect. We'd love to explore a collaboration \u2014 whether it's a sponsored video, affiliate campaign, or brand partnership. Your audience's trust makes this a great opportunity.",
+    "instagram_dm": "Hi InvestWithIan, your investing breakdowns are top notch. Would love to explore a collab \u2014 open to chat?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "PapaGeorge",
+    "platform": "Instagram",
+    "niche": "parenting",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi PapaGeorge, your honest and relatable single dad, kids activities content is exactly what parents need \u2014 and what our brand values. We'd love to discuss a collaboration that feels genuine to your audience, whether that's a product feature, affiliate deal, or ambassador role.",
+    "instagram_dm": "Hi PapaGeorge, your single dad content is so relatable. We'd love to partner with you on something authentic!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "RunWithRiya",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi RunWithRiya, your dedication to trail running, ultramarathon content is exactly what our fitness brand is looking for. With your 13,000 engaged followers and 8.9% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi RunWithRiya, your trail running content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "LuxeByLara",
+    "platform": "Instagram",
+    "niche": "fashion",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi LuxeByLara, your eye for luxury brands, high fashion is exactly the aesthetic our brand resonates with. We've been following your content and think your audience would genuinely love what we're building. We'd love to explore a paid collaboration or affiliate partnership. Let us know if you're interested.",
+    "instagram_dm": "Hi LuxeByLara, your luxury brands style is stunning. We'd love to explore a collab \u2014 are you open to it?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "TechTalkTom",
+    "platform": "YouTube",
+    "niche": "tech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi TechTalkTom, your ai tools, software reviews content is both informative and engaging \u2014 exactly the kind of creator voice we look for. We'd love to explore a sponsored review or affiliate collaboration with you. Your audience's trust in your recommendations makes this a compelling opportunity for both sides.",
+    "instagram_dm": "Hi TechTalkTom, your ai tools reviews are genuinely helpful. We'd love to work together on something \u2014 interested?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "GlossyGirl",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi GlossyGirl, your lip care, nail art, beauty hacks content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi GlossyGirl, loved your recent lip care content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "EsportsElite",
+    "platform": "YouTube",
+    "niche": "gaming",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi EsportsElite, your esports, tournaments, pro gaming content has the kind of authentic energy our brand is looking for. We'd love to partner on a sponsored stream, product placement, or affiliate deal that fits naturally with your content. Let's see if there's a good fit here.",
+    "instagram_dm": "Hi EsportsElite, your esports content is awesome. We'd love to discuss a partnership that fits your style!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "BabyDaysElla",
+    "platform": "Instagram",
+    "niche": "parenting",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi BabyDaysElla, your honest and relatable newborn, baby care, nursery content is exactly what parents need \u2014 and what our brand values. We'd love to discuss a collaboration that feels genuine to your audience, whether that's a product feature, affiliate deal, or ambassador role.",
+    "instagram_dm": "Hi BabyDaysElla, your newborn content is so relatable. We'd love to partner with you on something authentic!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "FitFoodFinn",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi FitFoodFinn, your dedication to meal prep, macros, healthy eating content is exactly what our fitness brand is looking for. With your 43,000 engaged followers and 4.9% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi FitFoodFinn, your meal prep content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "StockSavvy",
+    "platform": "YouTube",
+    "niche": "fintech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi StockSavvy, your ability to break down stock market, trading, options for a broad audience is a skill we deeply respect. We'd love to explore a collaboration \u2014 whether it's a sponsored video, affiliate campaign, or brand partnership. Your audience's trust makes this a great opportunity.",
+    "instagram_dm": "Hi StockSavvy, your stock market breakdowns are top notch. Would love to explore a collab \u2014 open to chat?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "ChicWithChloe",
+    "platform": "Instagram",
+    "niche": "fashion",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi ChicWithChloe, your eye for chic looks, paris fashion, minimalist is exactly the aesthetic our brand resonates with. We've been following your content and think your audience would genuinely love what we're building. We'd love to explore a paid collaboration or affiliate partnership. Let us know if you're interested.",
+    "instagram_dm": "Hi ChicWithChloe, your chic looks style is stunning. We'd love to explore a collab \u2014 are you open to it?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "SkinDeep",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi SkinDeep, your dermatology tips, acne care, spf content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi SkinDeep, loved your recent dermatology tips content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "IndieGamer",
+    "platform": "YouTube",
+    "niche": "gaming",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi IndieGamer, your indie games, hidden gems, reviews content has the kind of authentic energy our brand is looking for. We'd love to partner on a sponsored stream, product placement, or affiliate deal that fits naturally with your content. Let's see if there's a good fit here.",
+    "instagram_dm": "Hi IndieGamer, your indie games content is awesome. We'd love to discuss a partnership that fits your style!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "PowerliftPete",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi PowerliftPete, your dedication to powerlifting, strength, competition content is exactly what our fitness brand is looking for. With your 17,000 engaged followers and 7.5% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi PowerliftPete, your powerlifting content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "MomBlogMaya",
+    "platform": "Instagram",
+    "niche": "parenting",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi MomBlogMaya, your honest and relatable mom tips, toddler, home routines content is exactly what parents need \u2014 and what our brand values. We'd love to discuss a collaboration that feels genuine to your audience, whether that's a product feature, affiliate deal, or ambassador role.",
+    "instagram_dm": "Hi MomBlogMaya, your mom tips content is so relatable. We'd love to partner with you on something authentic!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "DevDiaries",
+    "platform": "YouTube",
+    "niche": "tech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi DevDiaries, your developer life, startups, coding vlogs content is both informative and engaging \u2014 exactly the kind of creator voice we look for. We'd love to explore a sponsored review or affiliate collaboration with you. Your audience's trust in your recommendations makes this a compelling opportunity for both sides.",
+    "instagram_dm": "Hi DevDiaries, your developer life reviews are genuinely helpful. We'd love to work together on something \u2014 interested?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "BoldBeautyBee",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi BoldBeautyBee, your bold makeup, creative looks content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi BoldBeautyBee, loved your recent bold makeup content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "WealthWave",
+    "platform": "YouTube",
+    "niche": "fintech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi WealthWave, your ability to break down wealth building, real estate, passive income for a broad audience is a skill we deeply respect. We'd love to explore a collaboration \u2014 whether it's a sponsored video, affiliate campaign, or brand partnership. Your audience's trust makes this a great opportunity.",
+    "instagram_dm": "Hi WealthWave, your wealth building breakdowns are top notch. Would love to explore a collab \u2014 open to chat?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "SportySpencer",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi SportySpencer, your dedication to crossfit, hiit, sports performance content is exactly what our fitness brand is looking for. With your 30,000 engaged followers and 6.0% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi SportySpencer, your crossfit content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "FashionForward",
+    "platform": "Instagram",
+    "niche": "fashion",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi FashionForward, your eye for fashion forward, editorial, trends is exactly the aesthetic our brand resonates with. We've been following your content and think your audience would genuinely love what we're building. We'd love to explore a paid collaboration or affiliate partnership. Let us know if you're interested.",
+    "instagram_dm": "Hi FashionForward, your fashion forward style is stunning. We'd love to explore a collab \u2014 are you open to it?",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "GameNight",
+    "platform": "YouTube",
+    "niche": "gaming",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi GameNight, your multiplayer, party games, streams content has the kind of authentic energy our brand is looking for. We'd love to partner on a sponsored stream, product placement, or affiliate deal that fits naturally with your content. Let's see if there's a good fit here.",
+    "instagram_dm": "Hi GameNight, your multiplayer content is awesome. We'd love to discuss a partnership that fits your style!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "PureSkinPaola",
+    "platform": "Instagram",
+    "niche": "beauty",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi PureSkinPaola, your clean beauty, organic skincare content genuinely stands out \u2014 the way you connect with your audience is impressive. We're reaching out because we think there's a natural fit between your work and our beauty brand. We'd love to discuss a UGC campaign or product collaboration. Would you be open to a quick chat?",
+    "instagram_dm": "Hi PureSkinPaola, loved your recent clean beauty content. Think your audience would be a perfect fit for our upcoming campaign!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "TinyHumans",
+    "platform": "Instagram",
+    "niche": "parenting",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi TinyHumans, your honest and relatable kids fashion, parenting hacks, school content is exactly what parents need \u2014 and what our brand values. We'd love to discuss a collaboration that feels genuine to your audience, whether that's a product feature, affiliate deal, or ambassador role.",
+    "instagram_dm": "Hi TinyHumans, your kids fashion content is so relatable. We'd love to partner with you on something authentic!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "CyclingCarlos",
+    "platform": "Instagram",
+    "niche": "fitness",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi CyclingCarlos, your dedication to cycling, biking, outdoor fitness content is exactly what our fitness brand is looking for. With your 14,000 engaged followers and 8.5% engagement, we'd love to explore a collaboration \u2014 whether that's a sponsored post, affiliate deal, or brand ambassador role. Let's connect and see what works best for you.",
+    "instagram_dm": "Hi CyclingCarlos, your cycling content is exactly what we've been looking for \u2014 would love to chat about a collab!",
+    "generated_at": "2026-11-13 17:39:54"
+  },
+  {
+    "name": "PennyWise",
+    "platform": "YouTube",
+    "niche": "fintech",
+    "contact_email": "Not Found",
+    "email_pitch": "Hi PennyWise, your ability to break down budgeting, frugal living, saving tips for a broad audience is a skill we deeply respect. We'd love to explore a collaboration \u2014 whether it's a sponsored video, affiliate campaign, or brand partnership. Your audience's trust makes this a great opportunity.",
+    "instagram_dm": "Hi PennyWise, your budgeting breakdowns are top notch. Would love to explore a collab \u2014 open to chat?",
+    "generated_at": "2026-11-13 17:39:54"
+  }
+]
