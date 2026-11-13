@@ -13,6 +13,14 @@
 
 ---
 
+## 📸 Demo
+
+![Pipeline — Discovery & Filtering](screenshots/pipeline.png)
+
+![Personalized Messages Output](screenshots/messages.png)
+
+---
+
 ## ✨ What it does
 
 | Step | Description |

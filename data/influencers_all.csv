@@ -1,5 +1,4 @@
 name,platform,follower_count,engagement_rate,niche,contact_email,profile_url,content_themes,filter_status,filter_reason,audience_age,audience_gender,audience_geography,website
-Test User,Instagram,25000,4.5,fitness,Not Found,https://instagram.com/testuser,"workout, gym",passed,Meets all criteria,18-34,"55% Female, 45% Male","US, UK, CA, AU",https://linktr.ee/testuser
 Sara Fit,Instagram,48000,5.2,fitness,Not Found,https://instagram.com/sarafit,"workout, gym, nutrition",passed,Meets all criteria,18-34,"55% Female, 45% Male","US, UK, CA, AU",https://linktr.ee/sarafit
 Mike Lifts,Instagram,72000,3.8,fitness,Not Found,https://instagram.com/mikelifts,"weightlifting, bodybuilding",passed,Meets all criteria,18-34,"55% Female, 45% Male","US, UK, CA, AU",https://linktr.ee/mikelifts
 Zara Glow,Instagram,31000,6.1,beauty,Not Found,https://instagram.com/zaraglow,"skincare, makeup, glowup",passed,Meets all criteria,16-30,"80% Female, 20% Male","US, UK, IN, AU",https://linktr.ee/zaraglow

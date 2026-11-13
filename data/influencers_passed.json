@@ -1,24 +1,6 @@
 [
   {
     "id": 1,
-    "name": "Test User",
-    "platform": "Instagram",
-    "profile_url": "https://instagram.com/testuser",
-    "follower_count": 25000,
-    "engagement_rate": 4.5,
-    "niche": "fitness",
-    "content_themes": "workout, gym",
-    "contact_email": "Not Found",
-    "website": "https://linktr.ee/testuser",
-    "audience_age": "18-34",
-    "audience_gender": "55% Female, 45% Male",
-    "audience_geography": "US, UK, CA, AU",
-    "filter_status": "passed",
-    "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:09:25"
-  },
-  {
-    "id": 2,
     "name": "Sara Fit",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/sarafit",
@@ -33,10 +15,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Mike Lifts",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/mikelifts",
@@ -51,10 +33,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Zara Glow",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/zaraglow",
@@ -69,10 +51,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Priya Style",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/priyastyle",
@@ -87,10 +69,10 @@
     "audience_geography": "US, UK, FR, IT",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "TechWithAlex",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/techwithale",
@@ -105,10 +87,10 @@
     "audience_geography": "US, IN, DE, UK",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Luna Beauty",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/lunabeauty",
@@ -123,10 +105,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "FitDad Joe",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/fitdadjoe",
@@ -141,10 +123,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Crypto Kai",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/cryptokai",
@@ -159,10 +141,10 @@
     "audience_geography": "US, UK, SG, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Mia Runs",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/miaruns",
@@ -177,10 +159,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "StyleByNadia",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/stylebynadia",
@@ -195,10 +177,10 @@
     "audience_geography": "US, UK, FR, IT",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "GamerZack",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/gamerzack",
@@ -213,10 +195,10 @@
     "audience_geography": "US, BR, DE, KR",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Mom of Three",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/momofthree",
@@ -231,10 +213,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "VeganVita",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/veganvita",
@@ -249,10 +231,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Kevin Codes",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/kevincodes",
@@ -267,10 +249,10 @@
     "audience_geography": "US, IN, DE, UK",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "Bella Trends",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/bellatrends",
@@ -285,10 +267,10 @@
     "audience_geography": "US, UK, FR, IT",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 17,
+    "id": 16,
     "name": "YogaWithSam",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/yogawithsam",
@@ -303,10 +285,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 18,
+    "id": 17,
     "name": "FinanceFred",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/financefred",
@@ -321,10 +303,10 @@
     "audience_geography": "US, UK, SG, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "GlowByRia",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/glowbyria",
@@ -339,10 +321,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 20,
+    "id": 19,
     "name": "DadLifeDan",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/dadlifedan",
@@ -357,10 +339,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 21,
+    "id": 20,
     "name": "TechNinja",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/techninja",
@@ -375,10 +357,10 @@
     "audience_geography": "US, IN, DE, UK",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "FashionFara",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/fashionfara",
@@ -393,10 +375,10 @@
     "audience_geography": "US, UK, FR, IT",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 23,
+    "id": 22,
     "name": "GymQueen",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/gymqueen",
@@ -411,10 +393,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 24,
+    "id": 23,
     "name": "CryptoLisa",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/cryptolisa",
@@ -429,10 +411,10 @@
     "audience_geography": "US, UK, SG, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 25,
+    "id": 24,
     "name": "MakeupByMia",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/makeupbymia",
@@ -447,10 +429,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 26,
+    "id": 25,
     "name": "StreetStyleKen",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/streetstyleken",
@@ -465,10 +447,10 @@
     "audience_geography": "US, UK, FR, IT",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 27,
+    "id": 26,
     "name": "FitMomAmy",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/fitmomamy",
@@ -483,10 +465,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 28,
+    "id": 27,
     "name": "GamersHub",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/gamershub",
@@ -501,10 +483,10 @@
     "audience_geography": "US, BR, DE, KR",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 29,
+    "id": 28,
     "name": "NaturalNadia",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/naturalnadia",
@@ -519,10 +501,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 30,
+    "id": 29,
     "name": "InvestWithIan",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/investwithian",
@@ -537,10 +519,10 @@
     "audience_geography": "US, UK, SG, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 31,
+    "id": 30,
     "name": "PapaGeorge",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/papageorge",
@@ -555,10 +537,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 32,
+    "id": 31,
     "name": "RunWithRiya",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/runwithriya",
@@ -573,10 +555,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 33,
+    "id": 32,
     "name": "LuxeByLara",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/luxebylara",
@@ -591,10 +573,10 @@
     "audience_geography": "US, UK, FR, IT",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 34,
+    "id": 33,
     "name": "TechTalkTom",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/techtalktom",
@@ -609,10 +591,10 @@
     "audience_geography": "US, IN, DE, UK",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 35,
+    "id": 34,
     "name": "GlossyGirl",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/glossygirl",
@@ -627,10 +609,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 36,
+    "id": 35,
     "name": "EsportsElite",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/esportselite",
@@ -645,10 +627,10 @@
     "audience_geography": "US, BR, DE, KR",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 37,
+    "id": 36,
     "name": "BabyDaysElla",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/babydaysella",
@@ -663,10 +645,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 38,
+    "id": 37,
     "name": "FitFoodFinn",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/fitfoodfinn",
@@ -681,10 +663,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 39,
+    "id": 38,
     "name": "StockSavvy",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/stocksavvy",
@@ -699,10 +681,10 @@
     "audience_geography": "US, UK, SG, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 40,
+    "id": 39,
     "name": "ChicWithChloe",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/chicwithchloe",
@@ -717,10 +699,10 @@
     "audience_geography": "US, UK, FR, IT",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 41,
+    "id": 40,
     "name": "SkinDeep",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/skindeep",
@@ -735,10 +717,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 42,
+    "id": 41,
     "name": "IndieGamer",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/indiegamer",
@@ -753,10 +735,10 @@
     "audience_geography": "US, BR, DE, KR",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 43,
+    "id": 42,
     "name": "PowerliftPete",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/powerliftpete",
@@ -771,10 +753,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 44,
+    "id": 43,
     "name": "MomBlogMaya",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/momblogmaya",
@@ -789,10 +771,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 45,
+    "id": 44,
     "name": "DevDiaries",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/devdiaries",
@@ -807,10 +789,10 @@
     "audience_geography": "US, IN, DE, UK",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 46,
+    "id": 45,
     "name": "BoldBeautyBee",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/boldbeautybee",
@@ -825,10 +807,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 47,
+    "id": 46,
     "name": "WealthWave",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/wealthwave",
@@ -843,10 +825,10 @@
     "audience_geography": "US, UK, SG, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 48,
+    "id": 47,
     "name": "SportySpencer",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/sportyspencer",
@@ -861,10 +843,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 49,
+    "id": 48,
     "name": "FashionForward",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/fashionforward_",
@@ -879,10 +861,10 @@
     "audience_geography": "US, UK, FR, IT",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 50,
+    "id": 49,
     "name": "GameNight",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/gamenight",
@@ -897,10 +879,10 @@
     "audience_geography": "US, BR, DE, KR",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 51,
+    "id": 50,
     "name": "PureSkinPaola",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/pureskinpaola",
@@ -915,10 +897,10 @@
     "audience_geography": "US, UK, IN, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 52,
+    "id": 51,
     "name": "TinyHumans",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/tinyhumans",
@@ -933,10 +915,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 53,
+    "id": 52,
     "name": "CyclingCarlos",
     "platform": "Instagram",
     "profile_url": "https://instagram.com/cyclingcarlos",
@@ -951,10 +933,10 @@
     "audience_geography": "US, UK, CA, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   },
   {
-    "id": 54,
+    "id": 53,
     "name": "PennyWise",
     "platform": "YouTube",
     "profile_url": "https://youtube.com/pennywise_finance",
@@ -969,6 +951,6 @@
     "audience_geography": "US, UK, SG, AU",
     "filter_status": "passed",
     "filter_reason": "Meets all criteria",
-    "created_at": "2026-11-13 17:30:23"
+    "created_at": "2026-11-13 18:12:32"
   }
 ]
