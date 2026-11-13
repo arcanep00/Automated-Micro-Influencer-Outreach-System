@@ -1,0 +1,37 @@
+[
+  {
+    "influencer": "TechWithAlex",
+    "email": "techwithalex@gmail.com",
+    "message_type": "email",
+    "sent_at": "2026-11-13T17:49:18.708593",
+    "status": "simulated"
+  },
+  {
+    "influencer": "Priya Style",
+    "email": "priyastyle@gmail.com",
+    "message_type": "email",
+    "sent_at": "2026-11-13T17:49:18.702957",
+    "status": "simulated"
+  },
+  {
+    "influencer": "Zara Glow",
+    "email": "zaraglow@gmail.com",
+    "message_type": "email",
+    "sent_at": "2026-11-13T17:49:18.697703",
+    "status": "simulated"
+  },
+  {
+    "influencer": "Mike Lifts",
+    "email": "mikelifts@outlook.com",
+    "message_type": "email",
+    "sent_at": "2026-11-13T17:49:18.693365",
+    "status": "simulated"
+  },
+  {
+    "influencer": "Sara Fit",
+    "email": "sara.fit@gmail.com",
+    "message_type": "email",
+    "sent_at": "2026-11-13T17:49:18.658932",
+    "status": "simulated"
+  }
+]

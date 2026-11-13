@@ -3,6 +3,4 @@ __pycache__/
 *.pyc
 *.pyo
 data/influencers.db
-data/*.csv
-data/*.json
 .DS_Store
