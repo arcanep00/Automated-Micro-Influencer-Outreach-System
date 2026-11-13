@@ -1,10 +1,8 @@
 .env
 __pycache__/
-**/__pycache__/
 *.pyc
 *.pyo
-data/*.db
-.venv/
-venv/
-.idea/
-.vscode/
+data/influencers.db
+data/*.csv
+data/*.json
+.DS_Store
